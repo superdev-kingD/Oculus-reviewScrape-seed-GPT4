@@ -1,0 +1,2 @@
+2023-04-10 23:21:05.266 DEBUG discovery - method: URL being requested: GET https://sheets.googleapis.com/v4/spreadsheets/13B9AfbIiM9y9LW1wr9DblDAt9tRe9O0LY3aP9GGRPqI?includeGridData=false&fields=%2A&alt=json
+2023-04-10 23:21:05.299 DEBUG google_auth_httplib2 - __call__: Making request: POST https://oauth2.googleapis.com/token

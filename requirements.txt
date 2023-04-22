@@ -1,0 +1,14 @@
+Mainly from the Oculus.com site but we are open to other cool ideas.
+
+We will be using to design marketing content based on common themes in our competitor reviews etc.
+
+Bonus points if you have good experience with GPT4.
+
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+Ok step 1: please scrape all the reviews, URL of ther user profile, and date in fixed format of les mills bodycombat
+
+https://docs.google.com/spreadsheets/d/13B9AfbIiM9y9LW1wr9DblDAt9tRe9O0LY3aP9GGRPqI/edit
+https://www.oculus.com/experiences/quest/4015163475201433/
+
+Please continue with litesport, PowerbeatsVR, fitxr and supernatural
